@@ -1,4 +1,6 @@
 [package]
 name = "inventory"
+description = "Plugin management for Rust programs"
+repository = "https://github.com/PistonDevelopers/inventory"
 version = "0.0.1"
 authors = ["Fenhl <fenhl@fenhl.net>"]
